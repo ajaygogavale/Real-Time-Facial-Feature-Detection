@@ -1,6 +1,5 @@
 import cv2
 
-#img=cv2.imread(r"F:\photos\X-men wallpaper\img12.jpg") 
 img=cv2.imread(r"C:\Users\hp\Downloads\people-with-crossed-arms-medium-shot.jpg")
 #img=cv2.imread(r"C:\Users\hp\Downloads\medium-shot-happy-friends-city.jpg")
 img=cv2.resize(img,(700,450))
